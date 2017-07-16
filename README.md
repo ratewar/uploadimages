@@ -14,7 +14,7 @@ You have AWS authentication keys that have write access to the bucket.
 
 
 ```sh
-$ git clone git@github.com:vikasbguru/awschatbot-unleashed.git # or clone your own fork
+$ git clone git@github.com:ratewar/uploadimages.git # or clone your own fork
 $ cd uploadimages
 $ npm install
 $ npm start
